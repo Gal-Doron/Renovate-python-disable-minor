@@ -1,6 +1,9 @@
 {
   "settingsInheritedFrom": "Gal-Doron/whitesource-config@main",
   "remediateSettings": {
-    "enableRenovate": true
+    "enableRenovate": true,
+    "minor": {
+    "enabled": false
+  }
   }
 }
